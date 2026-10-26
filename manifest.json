@@ -1,0 +1,20 @@
+{
+  "project": "SIR Library",
+  "title": "SIR Library Archival & Circulation Suite",
+  "title_ar": "منظومة مكتبات سير والأرشفة الرقمية والإعارة",
+  "version": "1.0.0",
+  "updated_at": "2026-10-26T08:20:19.247904+00:00",
+  "zip_package": {
+    "file_name": "SIR_Library_Suite.zip",
+    "size_bytes": 85995355,
+    "size_mb": 82.01,
+    "sha256": "9449f5385cf6496edcee485626361d93e99ba95451dcc3b108f376114e99fa48",
+    "relative_url": "/downloads/SIR_Library_Suite.zip"
+  },
+  "main_executable": {
+    "file_name": "SIR Library-Setup-1.0.0.exe",
+    "size_bytes": 85994249,
+    "sha256": "8abf6841b6e4ec651855f4ac26bc0a33c4c0044ef6cc32ca4a77db9b0af5c84c",
+    "relative_url": "/downloads/SIR Library-Setup-1.0.0.exe"
+  }
+}
